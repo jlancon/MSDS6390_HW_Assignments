@@ -1,5 +1,5 @@
 # MSDS6390
-Assignment 4:  Imaging Visualization
+Assignment 5:  Imaging Visualization
 
 Select an image related to an issue you are interested
  in. Using Processing's pixels array and imaging functions,
