@@ -19,7 +19,7 @@ void setup() {
   http://api.nytimes.com/svc/search/v2/articlesearch.json?q=processing&sort=newest&api-key='YourKey'
   Note: The API query only returns the 10 most recent stories
   */
-  String apiKey = "Your_API_Key"; //https://developer.nytimes.com/
+  String apiKey = "Your APIcode here"; //https://developer.nytimes.com/
   String url = "http://api.nytimes.com/svc/search/v2/articlesearch.json";
   String query = "?q=processing&sort=newest";
     

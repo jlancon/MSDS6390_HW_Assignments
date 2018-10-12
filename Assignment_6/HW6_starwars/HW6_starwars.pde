@@ -1,5 +1,12 @@
-/* https://www.youtube.com/watch?v=fUkF-YLLXeg
+/*  MSDS 6390-402  Assignment #6
+    Travis Deason / Jeff Lancon
+    
+    Displaying meetup.com headlines in processing
+    meetup.com API was accessed through python script (meetup.py)
+    results were saved to meetups.txt 
 
+  Sources:
+  https://www.youtube.com/watch?v=fUkF-YLLXeg
 */
 String scrollTxt;
 float y =0;
