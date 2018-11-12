@@ -1,5 +1,5 @@
 # MSDS6390
-Assignment 6:  Net Visualization
+Assignment 7:  OOP Design
 
 Re-create and improve upon any previous project using OOP. 
 Please be prepared to discuss how the approach impacted your 

@@ -49,7 +49,7 @@ void setup() {
   scrollTxt = join(lines,'\n');
   y = height/2;
   // Proper front for StarWars scrolling text
-  PFont myFont = createFont("NEW GOTHIC MT", 22);
+  PFont myFont = createFont("NEW GOTHIC MT", 24);
   textFont(myFont);
 }
 
